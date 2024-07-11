@@ -10,11 +10,11 @@ Welcome to the Nike E-Commerce Website, your go-to destination for the latest Ni
 - Admin Dashboard: Manage products and Manage Users through a user-friendly admin interface.
 
 ## Installation 🚀
-1. Clone the repository:
-2. Start the frontend development server:
+1. Clone the repository: `https://github.com/Piyumikahasini/Online-Clothing-Store.git `
+2. Start the frontend development server: 
 `npm run start
 `
-4. Start the backend development server:
+4. Start the backend development server: 
 `node index.js
 `
 
