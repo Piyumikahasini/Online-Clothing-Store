@@ -2,13 +2,13 @@ import React from 'react';
 import  { TbTruckReturn } from 'react-icons/tb'
 import about from '../assets/about.png'
 
-function About() {
+const About =() =>{
   return (
     <section className='max-padd-container py-12 xl:py-32'>
 
       {/* container */}
 
-      <div className='flex flex-col xl:flex-row'>
+      <div className='flex flex-col gap-16 xl:gap-8 xl:flex-row'>
 
         {/* left */}
 
