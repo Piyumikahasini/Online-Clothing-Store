@@ -12,7 +12,7 @@ Welcome to the Nike E-Commerce Website, your go-to destination for the latest Ni
 ## Installation 🚀
 1. Clone the repository: `https://github.com/Piyumikahasini/Online-Clothing-Store.git `
 2. Start the frontend development server: 
-`npm run start
+`npm start
 `
 4. Start the backend development server: 
 `node index.js
